@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> 
 
 
 
@@ -97,6 +97,7 @@ int main() {
    printf("Área: &_2f km^\n",area2);
    printf("PIB: %.1f milhões\n",pib2);
    printf("Ponto Turístico: &d\n",ponto_turistico2);
+   
    
    
    
