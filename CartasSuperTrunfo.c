@@ -49,6 +49,9 @@ int main() {
 
    printf("Digite o ponto turistico ");
    scanf ("%s", &ponto_turistico1);
+
+   floant("populacao1/area1");
+
    
     //cadastro da primeira carta 
    printf ("==== CADASTRO DA SEGUNDA CARTA ===");
@@ -84,7 +87,7 @@ int main() {
    printf("Área: &_2f km^\n",area1);
    printf("PIB: %.1f milhões\n",pib1);
    printf("Ponto Turístico: &d\n",ponto_turistico1);
-   
+   floant("populacao1/area1");
    
    
     // Exibição das Informação da Segunda Carta
@@ -97,7 +100,7 @@ int main() {
    printf("Área: &_2f km^\n",area2);
    printf("PIB: %.1f milhões\n",pib2);
    printf("Ponto Turístico: &d\n",ponto_turistico2);
-   
+   floant ("populacao2/area1");
    
    
    
